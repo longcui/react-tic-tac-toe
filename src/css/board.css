@@ -1,0 +1,10 @@
+.board {
+  width: 70px;
+}
+
+.board-cell {
+  border: solid black 1px;
+  width: 20px;
+  height: 20px;
+  float: left;
+}
